@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafsanjarnob
-- 👀 I’m interested in website edevloping.
+- 👀 I’m interested in website developing.
 - 🌱 I’m currently learning wordpress customization.
-- 💞️ I’m looking to collaborate on word theme devloper.
+- 💞️ I’m looking to collaborate on word theme developer.
 - 📫 Contact me through email at rjarnob81@gmail.com
 
 <!---
